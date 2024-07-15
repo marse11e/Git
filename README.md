@@ -1,6 +1,6 @@
 # Git - шпаргалка
 
-[Подключение SSH к GitHub](main.txt)<br>
+[Подключение SSH к GitHub](SSH.md)<br>
 [Документация по GitHub](https://docs.github.com/ru)<br>
 [Документация по Git](https://git-scm.com/doc)<br>
 
